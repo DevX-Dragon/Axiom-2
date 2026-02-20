@@ -56,6 +56,8 @@ I put the CAD files/designs in the /hardware folder. If you have a 3D printer, y
 | **Exchange Tax** | - | - | $5.00 | |
 | **Shipping** | - | - | $5.00 | |
 | **TOTAL** | | | **$112.44** | |
+> (THIS IS USING A LOCAL ONLY ELECTRONICS STORE. IF YOU'RE GOING TO HAVE TO SOURCE IT YOURSELF. USE AMAZON , ALIEXPRESS , TEMU)
+> THERE ARE STILL NUTS , WASHERS , ETC YOU NEED BUY SEPERATELY
 
 Made by DevX-Dragon 🐉
 (If it breaks, its not my fault lol)
