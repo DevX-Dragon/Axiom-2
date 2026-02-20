@@ -13,6 +13,9 @@ It’s a "Drawing Bot" that uses an Arduino Uno and a CNC Shield to move a pen a
 <img width="184" height="417" alt="Belt Diagram EXCIL DRAW 2" src="https://github.com/user-attachments/assets/e62f16b5-e78b-49eb-984c-ad80ff0f72db" />
 <img width="600" height="426" alt="BELT DIAGRAM" src="https://github.com/user-attachments/assets/6a0afe80-4b06-498d-9081-e85e0ad2a5b9" />
 
+### CNC Overview
+![CNC Wiring Diagram](https://github.com/user-attachments/assets/f3c0c1c3-d0b9-41d5-9fa6-de4619e49f54)
+
 
 ## Cool Stuff Inside
 **The Brain:** Arduino Uno + CNC Shield (v3)
